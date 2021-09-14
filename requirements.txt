@@ -1,0 +1,4 @@
+matplotlib
+nltk
+seaborn
+sklearn
